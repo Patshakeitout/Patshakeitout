@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Patshakeitout
+- 👋 Hi, I’m @Patshakeitout. I am learning Angular.
 
 <!---
 Patshakeitout/Patshakeitout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
